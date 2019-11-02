@@ -1,0 +1,13 @@
+C:\Users\Balázs\source\repos\DinoBot\DinoBot\bin\Debug\DinoBot.exe.config
+C:\Users\Balázs\source\repos\DinoBot\DinoBot\bin\Debug\DinoBot.exe
+C:\Users\Balázs\source\repos\DinoBot\DinoBot\bin\Debug\DinoBot.pdb
+C:\Users\Balázs\source\repos\DinoBot\DinoBot\obj\Debug\DinoBot.csprojAssemblyReference.cache
+C:\Users\Balázs\source\repos\DinoBot\DinoBot\obj\Debug\DinoBot.Form1.resources
+C:\Users\Balázs\source\repos\DinoBot\DinoBot\obj\Debug\DinoBot.Properties.Resources.resources
+C:\Users\Balázs\source\repos\DinoBot\DinoBot\obj\Debug\DinoBot.csproj.GenerateResource.cache
+C:\Users\Balázs\source\repos\DinoBot\DinoBot\obj\Debug\DinoBot.csproj.CoreCompileInputs.cache
+C:\Users\Balázs\source\repos\DinoBot\DinoBot\obj\Debug\DinoBot.exe
+C:\Users\Balázs\source\repos\DinoBot\DinoBot\obj\Debug\DinoBot.pdb
+C:\Users\Balázs\source\repos\DinoBot\DinoBot\bin\Debug\WindowsInput.dll
+C:\Users\Balázs\source\repos\DinoBot\DinoBot\bin\Debug\WindowsInput.xml
+C:\Users\Balázs\source\repos\DinoBot\DinoBot\obj\Debug\DinoBot.csproj.CopyComplete
